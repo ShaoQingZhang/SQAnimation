@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "SQAnimation"
   s.version      = "0.0.1"
-  s.summary      = "A short description of SQAnimation."
+  s.summary      = "SQAnimation SQAnimation."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -52,7 +52,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "" => "" }
+  s.author             = { "" => "845891612@qq.com" }
   # Or just: s.author    = ""
   # s.authors            = { "" => "" }
   # s.social_media_url   = "http://twitter.com/"
